@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "ga6ee7GBWwc0BC4QWGOp6JOkns7KFe6roL+0ZknmsiZMRqNPvxEHs5aUMqAfSbhOwICniPUslbl/ggp+ZZpZKw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\turgu\\source\\repos\\HepsiYemekCase\\HepsiYemekCase.Infrastructure.Abstructions\\HepsiYemekCase.Infrastructure.Abstructions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\turgu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\turgu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project HepsiYemekCase.Core is not compatible with netstandard2.0 (.NETStandard,Version=v2.0). Project HepsiYemekCase.Core supports: netcoreapp3.1 (.NETCoreApp,Version=v3.1)",
+      "libraryId": "HepsiYemekCase.Core",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

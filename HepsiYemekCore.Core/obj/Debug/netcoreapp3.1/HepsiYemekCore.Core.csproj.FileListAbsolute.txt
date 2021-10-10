@@ -1,0 +1,9 @@
+C:\Users\turgu\source\repos\HepsiYemekCase\HepsiYemekCore.Core\bin\Debug\netcoreapp3.1\HepsiYemekCore.Core.deps.json
+C:\Users\turgu\source\repos\HepsiYemekCase\HepsiYemekCore.Core\bin\Debug\netcoreapp3.1\HepsiYemekCore.Core.dll
+C:\Users\turgu\source\repos\HepsiYemekCase\HepsiYemekCore.Core\bin\Debug\netcoreapp3.1\HepsiYemekCore.Core.pdb
+C:\Users\turgu\source\repos\HepsiYemekCase\HepsiYemekCore.Core\obj\Debug\netcoreapp3.1\HepsiYemekCore.Core.AssemblyInfoInputs.cache
+C:\Users\turgu\source\repos\HepsiYemekCase\HepsiYemekCore.Core\obj\Debug\netcoreapp3.1\HepsiYemekCore.Core.AssemblyInfo.cs
+C:\Users\turgu\source\repos\HepsiYemekCase\HepsiYemekCore.Core\obj\Debug\netcoreapp3.1\HepsiYemekCore.Core.csproj.CoreCompileInputs.cache
+C:\Users\turgu\source\repos\HepsiYemekCase\HepsiYemekCore.Core\obj\Debug\netcoreapp3.1\HepsiYemekCore.Core.dll
+C:\Users\turgu\source\repos\HepsiYemekCase\HepsiYemekCore.Core\obj\Debug\netcoreapp3.1\HepsiYemekCore.Core.pdb
+C:\Users\turgu\source\repos\HepsiYemekCase\HepsiYemekCore.Core\obj\Debug\netcoreapp3.1\HepsiYemekCore.Core.csprojAssemblyReference.cache

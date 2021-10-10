@@ -1,0 +1,12 @@
+C:\Users\turgu\source\repos\HepsiYemekCase\HepsiYemekCase.Infrastructure.Abstractions\bin\Debug\netcoreapp3.1\HepsiYemekCase.Infrastructure.Abstractions.deps.json
+C:\Users\turgu\source\repos\HepsiYemekCase\HepsiYemekCase.Infrastructure.Abstractions\bin\Debug\netcoreapp3.1\HepsiYemekCase.Infrastructure.Abstractions.dll
+C:\Users\turgu\source\repos\HepsiYemekCase\HepsiYemekCase.Infrastructure.Abstractions\bin\Debug\netcoreapp3.1\HepsiYemekCase.Infrastructure.Abstractions.pdb
+C:\Users\turgu\source\repos\HepsiYemekCase\HepsiYemekCase.Infrastructure.Abstractions\bin\Debug\netcoreapp3.1\HepsiYemekCase.Core.dll
+C:\Users\turgu\source\repos\HepsiYemekCase\HepsiYemekCase.Infrastructure.Abstractions\bin\Debug\netcoreapp3.1\HepsiYemekCase.Core.pdb
+C:\Users\turgu\source\repos\HepsiYemekCase\HepsiYemekCase.Infrastructure.Abstractions\obj\Debug\netcoreapp3.1\HepsiYemekCase.Infrastructure.Abstractions.csprojAssemblyReference.cache
+C:\Users\turgu\source\repos\HepsiYemekCase\HepsiYemekCase.Infrastructure.Abstractions\obj\Debug\netcoreapp3.1\HepsiYemekCase.Infrastructure.Abstractions.AssemblyInfoInputs.cache
+C:\Users\turgu\source\repos\HepsiYemekCase\HepsiYemekCase.Infrastructure.Abstractions\obj\Debug\netcoreapp3.1\HepsiYemekCase.Infrastructure.Abstractions.AssemblyInfo.cs
+C:\Users\turgu\source\repos\HepsiYemekCase\HepsiYemekCase.Infrastructure.Abstractions\obj\Debug\netcoreapp3.1\HepsiYemekCase.Infrastructure.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\turgu\source\repos\HepsiYemekCase\HepsiYemekCase.Infrastructure.Abstractions\obj\Debug\netcoreapp3.1\HepsiYemekCase.Infrastructure.Abstractions.csproj.CopyComplete
+C:\Users\turgu\source\repos\HepsiYemekCase\HepsiYemekCase.Infrastructure.Abstractions\obj\Debug\netcoreapp3.1\HepsiYemekCase.Infrastructure.Abstractions.dll
+C:\Users\turgu\source\repos\HepsiYemekCase\HepsiYemekCase.Infrastructure.Abstractions\obj\Debug\netcoreapp3.1\HepsiYemekCase.Infrastructure.Abstractions.pdb
