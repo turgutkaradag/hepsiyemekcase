@@ -12,7 +12,7 @@ namespace HepsiYemekCase.Infrastructure.Services
         private readonly IMongoCollection<Categories> _categories;
         public CategoryService(IDatabaseSettings settings)
         {
-            var client = new MongoClient("mongodb+srv://DbFirst:<password>@cluster0.q4yk7.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"); // settings.ConnectionString
+            var client = new MongoClient("mongodb+srv://DbFirst:1234@cluster0.q4yk7.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"); // settings.ConnectionString
             var database = client.GetDatabase("HepsiYemek"); // settings.DatabaseName
             _categories = database.GetCollection<Categories>("Categories");
         }
